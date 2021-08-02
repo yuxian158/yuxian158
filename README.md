@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @yuxian158
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yuxian158/yuxian158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/yuxian158/">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/zl158">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+</a>
+<a href="yuxian158@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
+<a>Gmail:yuxian158@gmail.com</a>
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=yuxian158&count_private=true&show_icons=true" alt="Jackyu" />

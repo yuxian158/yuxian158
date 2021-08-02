@@ -8,4 +8,5 @@
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <a>Gmail:yuxian158@gmail.com</a>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=yuxian158&count_private=true&show_icons=true" alt="Jackyu" />
+<br></br>
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=yuxian158&count_private=true&show_icons=true" alt="Jackyu" />
